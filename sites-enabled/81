@@ -1,0 +1,5 @@
+server {
+	listen 81;
+	root /var/www/html81;
+	index index.html;
+}

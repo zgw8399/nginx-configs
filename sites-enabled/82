@@ -1,0 +1,5 @@
+server {
+	listen 82;
+	root /var/www/html82;
+	index index.html;
+}
